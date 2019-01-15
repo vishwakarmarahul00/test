@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is FA2E-851C
-
- Directory of C:\Users\52014045\Desktop\desktop\workspace\gitspace
-
-01/15/2019  08:27 PM    <DIR>          .
-01/15/2019  08:27 PM    <DIR>          ..
-01/15/2019  08:27 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  109,483,069,440 bytes free
+this is raw files
